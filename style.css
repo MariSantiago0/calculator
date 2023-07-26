@@ -1,0 +1,24 @@
+.Calculator{
+  width:260px;
+  height:300px;
+  background-color: rgb(162, 224, 204);
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.num-maincolor{
+ width:50px;
+ height:50px;
+ font-size: 20px;
+}
+.nume-maincolor{
+  font-size:25px;
+  width:40px;
+  height:45px;
+  text-align: center;
+}
+.text-maincolor{
+  height:45px;
+  font-size:25px;
+  width:200px;
+}
